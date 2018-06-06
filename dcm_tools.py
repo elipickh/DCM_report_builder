@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# Adapted from Google's Python API module 
 
 import os, time
 
